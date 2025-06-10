@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-
+<img src="/logo.png" alt="Make It to Morning logo" className="h-20 mx-auto mb-6" />
 const toolkits = {
   disappear: "Sometimes we just want to not exist for a while. This feeling is valid, and you're not alone. Try placing your feet on the ground. Notice three things you see. Two you can touch. One you can hear. You're here, and that's enough right now.",
   stay: "A reason to stay doesn’t have to be big. Maybe it’s a song. A person. A memory. Maybe it’s just that you haven’t seen tomorrow yet. And tomorrow might surprise you.",
