@@ -33,9 +33,14 @@ export default function App() {
 
         {!selectedToolkit ? (
           <>
-            <p className="mb-6">
-              Things feel too heavy. Maybe you’re thinking of giving up. Maybe it just hurts too much right now. You don’t need to explain it. You’re here.
-            </p>
+           <p className="text-lg italic text-center max-w-2xl mx-auto mb-6 text-gray-300 font-serif">
+            Maybe you’re thinking of giving up. Maybe it just hurts too much right now.  
+            You don’t need to explain it. You’re here.  
+            And that’s enough.
+    
+            <br /><br />
+            <span className="block mt-4 text-right font-bold text-white">— Rowan Hart</span>
+          </p>
 
             <button
               className="w-full bg-white text-black rounded-2xl px-6 py-3 font-semibold shadow-lg mb-6 transition hover:bg-gray-200"
