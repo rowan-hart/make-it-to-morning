@@ -29,7 +29,7 @@ export default function App() {
   return (
     <main className="min-h-screen flex flex-col items-center justify-center px-4 py-10 bg-gradient-to-b from-gray-900 to-black text-white font-sans">
       <div className="max-w-xl w-full text-center">
-        <img src="/banner.png" alt="Make It to Morning banner" className="w-full max-w-3xl mx-auto mb-10" /
+        <img src="/banner.png" alt="Make It to Morning banner" className="w-full max-w-3xl mx-auto mb-10" />
 
         {!selectedToolkit ? (
           <>
