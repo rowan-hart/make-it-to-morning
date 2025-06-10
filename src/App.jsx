@@ -29,7 +29,7 @@ export default function App() {
   return (
     <main className="min-h-screen flex flex-col items-center justify-center px-4 py-10 bg-gradient-to-b from-gray-900 to-black text-white font-sans">
       <div className="max-w-xl w-full text-center">
-        <h1 className="text-4xl font-bold mb-4">make it to morning</h1>
+        <img src="/logo.png" alt="Make It to Morning logo" className="h-20 mx-auto mb-6" />
         <h1 className="text-4xl font-bold mb-4">make it to morning</h1>
         <p className="text-lg mb-6 italic">You made it here. That matters.</p>
 
